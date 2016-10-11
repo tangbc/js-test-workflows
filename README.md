@@ -14,9 +14,6 @@ So this repository try to collect different types of JavaScript test workflows, 
 * [karma+jasmine+webpack+es6](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine%2Bwebpack%2Bes6)
 * [tape](https://github.com/tangbc/js-test-workflows/tree/master/tape)
 
-
-## choose a
-
 Each folder is a whole & independent test workfolw/solution, you can check them out and get start from their `readme.md` documentation.
 
 
