@@ -5,12 +5,22 @@
 So this repository try to collect different types of JavaScript test workflows, helping you choose a suitable and preferable Test-Driven Development.
 
 
-## Choose a workfolw
+## workflows
+
+* [karma+jasmine](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine)
+* [karma+jasmine+commonjs](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine%2Bcommonjs)
+* [karma+jasmine+typescript+amd](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine%2Btypescript%2Bamd)
+* [karma+jasmine+typescript+cmd](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine%2Btypescript%2Bcmd)
+* [karma+jasmine+webpack+es6](https://github.com/tangbc/js-test-workflows/tree/master/karma%2Bjasmine%2Bwebpack%2Bes6)
+* [tape](https://github.com/tangbc/js-test-workflows/tree/master/tape)
+
+
+## choose a
 
 Each folder is a whole & independent test workfolw/solution, you can check them out and get start from their `readme.md` documentation.
 
 
-## Contributing
+## contributing
 
 Add a new test workfolw by copy the `---template---` folder, then rename and structure your test code inside. Please write a fully `readme` for your test, tell people how to get start your project quickly.
 
