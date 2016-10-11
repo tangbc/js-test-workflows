@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"newLine": "LF",
+		"outDir": "build",
+		"types": [
+			"jasmine"
+		]
+	},
+	"include": [
+		"src/*.ts",
+		"test/*.ts"
+	]
+}

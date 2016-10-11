@@ -1,0 +1,23 @@
+{
+  "name": "js-test-workflows",
+  "version": "1.0.0",
+  "description": "A collection of different JavaScript test workflows, helping you choose a suitable/preferable Test-Driven Development.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangbc/js-test-workflows.git"
+  },
+  "keywords": [
+    "tdd",
+    "unit",
+    "test",
+    "javascript",
+    "test-workflow"
+  ],
+  "author": "TANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangbc/js-test-workflows/issues"
+  },
+  "homepage": "https://github.com/tangbc/js-test-workflows#readme"
+}

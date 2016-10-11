@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+  	"test": "tape ./test/**/*.js"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}

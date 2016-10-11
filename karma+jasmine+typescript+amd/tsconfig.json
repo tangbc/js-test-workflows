@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"module": "amd",
+		"target": "ES5",
+		"newLine": "LF",
+		"outDir": "build",
+		"types": [
+			"jasmine",
+			"requirejs"
+		]
+	},
+	"include": [
+		"src/*.ts",
+		"test/*.ts"
+	]
+}
