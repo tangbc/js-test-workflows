@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "mocha test/**/*.js",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  }
+}
