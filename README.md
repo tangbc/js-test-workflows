@@ -33,7 +33,7 @@ You can check them out and get start from their `readme.md` documentation.
 
 * e2e
 
-*Any diffrent or bugs, please open an issue or create a pull request !*
+*Any different test or bugs, please open an issue or create a pull request !*
 
 
 ## Contribution
