@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+  	"test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
+  },
+  "jest": {
+  	"collectCoverage": true
+  }
+}
