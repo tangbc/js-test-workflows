@@ -23,6 +23,8 @@ So this repository try to collect different types of JavaScript test workflows, 
 
 * [jest](https://github.com/tangbc/js-test-workflows/tree/master/jest)
 
+* [karma3+wepack4+es6](https://github.com/tangbc/js-test-workflows/tree/master/karma3+webpack4+es6)
+
 
 Each folder is a whole & independent test workfolw/solution.
 
